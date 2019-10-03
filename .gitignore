@@ -10,4 +10,5 @@ tasks.json
 *.pdf
 *.mine
 dust_bin/
+dust-bin/
 boilerplates/
